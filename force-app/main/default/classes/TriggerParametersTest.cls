@@ -1,3 +1,6 @@
+/*
+* @author : Davide Arena 
+*/
 @IsTest(IsParallel=true)
 public class TriggerParametersTest {
     

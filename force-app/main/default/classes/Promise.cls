@@ -1,3 +1,6 @@
+/*
+* @author : Davide Arena 
+*/
 Public Virtual Class Promise Implements Queueable, Database.AllowsCallouts {
 
     //   ___           _                     __     __

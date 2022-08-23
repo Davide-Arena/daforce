@@ -1,3 +1,6 @@
+/*
+* @author : Davide Arena 
+*/
 public with sharing class TriggerParameters
 {
     /*** STATIC CONSTANTS ***/
